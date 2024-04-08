@@ -14,4 +14,4 @@
 - Step 3: Check the button press action.
 	- The distance between 2 fingertips < threshold ==> 1 press.
         - Check if the user enters the given order correctly.
-- Step 5: Return results to the screen.
+- Step 4: Return results to the screen.
